@@ -1,5 +1,4 @@
 Pandas version: 2.2.3
 NumPy version: 1.26.0
-Pickle version: Pickle is part of the Python standard library, no version check needed
 Streamlit version: 1.40.2
 scikit-learn version: 1.5.2
