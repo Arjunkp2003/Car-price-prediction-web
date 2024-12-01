@@ -1,4 +1,3 @@
 Pandas version: 2.2.3
 NumPy version: 1.26.0
-Streamlit version: 1.40.2
 scikit-learn version: 1.5.2
